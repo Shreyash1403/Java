@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/shreyash/InputOutput/class/buffer'
+let g:netrw_dirhist_2='/home/shreyash/InputOutput/class/buffer/A3.java'
+let g:netrw_dirhist_1='/home/shreyash/control/nested/nested3.java'
